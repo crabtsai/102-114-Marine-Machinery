@@ -12,8 +12,8 @@ window.APP_CONFIG = {
     subjects: [
       {
         id: "238885855",
-        name: "工作表1",
-        sheetName: "工作表1"
+        name: "102-114船舶機電選擇題",
+        sheetName: "102-114船舶機電選擇題"
       }
 
     ]
