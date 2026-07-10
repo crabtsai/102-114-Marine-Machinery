@@ -1,11 +1,11 @@
 // Firebase Web App 公開設定。
 // 這不是管理員私鑰；仍需搭配正確的 Authentication 與 Firestore Rules。
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCTmXQR3XkLQ42DY1ALSeVhTlacUV8PNfs",
-  authDomain: "multisheetmockexamsystem.firebaseapp.com",
-  projectId: "multisheetmockexamsystem",
-  storageBucket: "multisheetmockexamsystem.firebasestorage.app",
-  messagingSenderId: "127284371306",
-  appId: "1:127284371306:web:188d100607ca59ed728f13",
-  measurementId: "G-MCTPQF393W"
+  apiKey: "AIzaSyD3IMlsUD798huHG9W0gPXKb6Y6NDdrv68",
+  authDomain: "marine-machinery.firebaseapp.com",
+  projectId: "marine-machinery",
+  storageBucket: "marine-machinery.firebasestorage.app",
+  messagingSenderId: "349201571583",
+  appId: "1:349201571583:web:99c7f37136b5960c75f6ca",
+  measurementId: "G-FNSVK702BG"
 };
